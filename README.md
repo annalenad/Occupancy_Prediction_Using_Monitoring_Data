@@ -1,9 +1,9 @@
 # Occupancy_Prediction_Using_Monitoring_Data
 
+... to be updated ... <br>
 
-
-please note that the file 'data_E07_input_5_outpunt_144.txt' is zipped because of size
-please unzip before use as input for random forest and logistic regression
+please note that the file 'data_E07_input_5_outpunt_144.txt' in the folder \Pre-Processing is uploaded zipped because of size <br>
+please unzip before the use as input for random forest and logistic regression
 
 ***
 source of the monitoring data: https://osf.io/2ydzg/ <br>
