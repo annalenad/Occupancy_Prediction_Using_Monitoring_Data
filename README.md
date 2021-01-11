@@ -3,7 +3,7 @@
 ... to be updated ... <br>
 
 ***
-please note that the file 'data_E07_input_5_outpunt_144.txt' in the folder \Pre-Processing is uploaded zipped because of size <br>
+please note that the file 'data_E07_input_5_output_144.txt' in the folder \Pre-Processing is uploaded zipped because of size <br>
 please unzip before the use as input for random forest and logistic regression
 
 ***
